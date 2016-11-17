@@ -86,9 +86,9 @@ var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
-var l_musicPlaylist = [
-	{ogg: "songs/[TV_On_The_Radio_-_DLZ_[Breaking_Bad_OST_[HQ_.ogg", name: "TV on the radio DLZ"},	
-	{ogg: "songs/Fever_Ray_-_If_I_Had_A_Heart.ogg", name: "Fever Ray If i had a heart"}	
+var l_musicPlaylist = [	
+	{ogg: "songs/Fever_Ray_-_If_I_Had_A_Heart.ogg", name: "Fever Ray If i had a heart"},
+	{youtube: "qJlGXlNgtok", name: "bb"}
 ];
 
 /*Random music order?*/
@@ -96,7 +96,7 @@ var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 40;
+var l_musicVolume = 30;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
