@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "ExtopiaRP";
+var l_serverName = "LeCartel";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [	
 	{ogg: "songs/Fever_Ray_-_If_I_Had_A_Heart.ogg", name: "Fever Ray If i had a heart"},
-	{youtube: "qJlGXlNgtok", name: "bb"}
+	{youtube: "qJlGXlNgtok", name: "TV on the radio-DLZ"}
 ];
 
 /*Random music order?*/
