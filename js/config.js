@@ -88,7 +88,8 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [	
 	{ogg: "songs/Fever_Ray_-_If_I_Had_A_Heart.ogg", name: "Fever Ray If i had a heart"},
-	{youtube: "qJlGXlNgtok", name: "TV on the radio-DLZ"}
+	{youtube: "qJlGXlNgtok", name: "TV on the radio-DLZ"},
+	{ogg: "Breaking_Bad_OST_-_Banderilla", name: "BB_Banderilla"}
 ];
 
 /*Random music order?*/
