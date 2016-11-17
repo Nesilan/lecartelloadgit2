@@ -108,7 +108,7 @@ var l_messages = [
 "Merci de Ne pas Spam",
 "Merci de Ne pas Props Kill",
 "Merci de Ne pas Insulter",
-"Merci de Respecter le NRL",
+"Merci de Respecter le NLR",
 "Merci de Ne pas Use Bug",
 "Merci de Jouer RP",
 "Merci de ne pas Déco en Scène RP",
